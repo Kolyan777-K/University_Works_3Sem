@@ -1,0 +1,10 @@
+[
+    {"job-name": "Программист C#", "salary": 150000},
+    {"job-name": "программист Java", "salary": 160000},
+    {"job-name": "Аналитик данных", "salary": 120000},
+    {"job-name": "Программист Python", "salary": 180000},
+    {"job-name": "Дизайнер", "salary": 90000},
+    {"job-name": "Программист JavaScript", "salary": 140000},
+    {"job-name": "Менеджер проекта", "salary": 130000},
+    {"job-name": "программист C++", "salary": 170000}
+]
